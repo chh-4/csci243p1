@@ -1,0 +1,83 @@
+commit 0b5ca33750d829b477446620c1bc91989fbd62a6
+Author: Charles Henry Hutson <chh1223@rit.edu>
+Date:   Fri Oct 25 23:33:01 2024 -0400
+
+    Final commit. I think it is done. I did not do the extra credit.
+
+commit 461bdc549f92a1a35689013c740827f6435b031c
+Author: Charles Henry Hutson <chh1223@rit.edu>
+Date:   Fri Oct 25 23:16:29 2024 -0400
+
+    Completed some refactoring and style and documentation correction
+
+commit 83039b96baa44b40354bf9843360fbb43597e015
+Author: Charles Henry Hutson <chh1223@rit.edu>
+Date:   Fri Oct 25 22:11:14 2024 -0400
+
+    Completed and corrected the overwrite mode of the program
+
+commit d61494bb1981ad0b9e74dd0225130300eac580ca
+Author: Charles Henry Hutson <chh1223@rit.edu>
+Date:   Fri Oct 25 04:22:36 2024 -0400
+
+    Fixed the output for print mode. Next step: correct overlay mode
+
+commit c7eb6ff296729152ab3554115509267e2326dab9
+Author: Charles Henry Hutson <chh1223@rit.edu>
+Date:   Fri Oct 25 03:23:06 2024 -0400
+
+    Fixed errors in the update and spread functions. Basic functionality of all components complete. At this point I will begin refining some aspects of the program to make it more in line with standards expected by the assignment.
+
+commit c33f503f201b56470223f4d24de004e43c4b7570
+Author: Charles Henry Hutson <chh1223@rit.edu>
+Date:   Fri Oct 25 01:04:33 2024 -0400
+
+    The spread component is nearly complete. I am about to make significant changes to the operation of the code in regards to tracking burn states.
+
+commit f6e6238dad0e035e90c83da642b64b60377c3545
+Author: Charles Henry Hutson <chh1223@rit.edu>
+Date:   Fri Oct 25 00:13:27 2024 -0400
+
+    Added cell checking in the spread function
+
+commit 7bfd4a7dc0053cbf7783455e05c836a5504b0020
+Author: Charles Henry Hutson <chh1223@rit.edu>
+Date:   Thu Oct 24 22:09:44 2024 -0400
+
+    Completed the update component.
+
+commit 03edb25e816df31868402bed6e0b35f24b628515
+Author: Charles Henry Hutson <chh1223@rit.edu>
+Date:   Thu Oct 24 15:03:25 2024 -0400
+
+    Completed init component. Shuffle working correctly
+
+commit 99f95ce4aab9118974c52a046c14fd13f67462f8
+Author: Charles Henry Hutson <chh1223@rit.edu>
+Date:   Wed Oct 23 17:08:35 2024 -0400
+
+    More work done to init. I was not done earlier when I thought I was. Grid printing complete. Next step: Shuflle
+
+commit 6ad0bbc6ef40b08b047d2c868cbf12e0d60441b9
+Author: Charles Henry Hutson <chh1223@rit.edu>
+Date:   Wed Oct 23 16:56:11 2024 -0400
+
+    Corrected errors in ititialization
+
+commit 7bca494fb33b9ed2fd9f117444f617e993fd7125
+Author: Charlie Henry Hutson <chh1223@rit.edu>
+Date:   Wed Oct 23 15:29:24 2024 -0400
+
+    Completed initialization component of program. This includes reading arguments and error checking said arguments.
+
+commit 4c8d693ce15a1a29d961e29e197d328151de00f6
+Author: Charlie Henry Hutson <chh1223@rit.edu>
+Date:   Wed Oct 23 07:31:25 2024 -0400
+
+    Working on initialization component and error checking of arguments
+
+commit 841c29d07c5873ef8a6fcf1768a2d9da531abb1e
+Author: Charlie Henry Hutson <chh1223@rit.edu>
+Date:   Wed Oct 23 06:37:29 2024 -0400
+
+    Initial commit. Downloaded the provided files, stored some provided examples in text, created wildfire and notes files

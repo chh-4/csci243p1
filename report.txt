@@ -1,0 +1,44 @@
+============================= ASSIGNMENT REPORT ============================
+Assignment name is: Wildfire
+My name is: CHARLES HENRY HUTSON IV
+
+	[USE PLAIN TEXT]
+	[INSERT ANSWERS AFTER EACH QUESTION AND ADD MORE LINES AS NEEDED.]
+	[MAKE YOUR ANSWERS SHORT AND TO THE POINT. BULLET POINTS ARE GOOD.]
+
+===== In what cases does the program run correctly?  =================
+- Valid input values are provided
+
+===== In what cases does the program fail and how?  ==================
+- Invalid input values
+- Prints an error message and then exits
+
+===== If applicable, what were the extra credit results?  ============
+===== If applicable, describe how to run the extra credit.  ==========
+===== How much time did I spend on the project?  =====================
+- ~15-20 hours
+
+===== What did I learn?  =============================================
+- The important of time management
+- Using #defines and macros to ease programming
+- Validating command line arguments
+
+===== What was easy in this assignment?  =============================
+- Working with 2d grids
+
+===== What gave me problems or troubles?  ============================
+- Command line arguments and input values
+- Random numbers
+- Sheer scale of project
+- Ensuring program handles edge cases
+
+===== What would be the most important improvement for the project?  =
+- Improving validation of input values
+- Ensure fire spreading and random values are effective
+
+===== What else would I have liked to do for this assignment?  =======
+- Using colored ASCII characters to make the simulation look better
+- Maybe different types of trees with various burn rates
+- More immersive, complex rules for fire spread
+
+============================================================================

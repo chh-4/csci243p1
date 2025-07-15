@@ -1,0 +1,14 @@
+   YY  ..
+.     .
+. .. . ...
+ .  ...
+ ...... ..
+   . .... .
+. ... .. ..
+ .  . .. .
+..     ....
+ . . Y  ...
+ ..  YY .
+size 11, pCatch 0.77, density 0.50, pBurning 0.25, pNeighbor 0.25
+cycle 9, current changes 1, cumulative changes 97.
+Fires are out.

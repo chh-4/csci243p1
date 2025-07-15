@@ -1,0 +1,26 @@
+X    Read the assignment.
+X    Download the Supplied Files.
+X    Compile, run and study the supplied program, getopt_demo.
+X    Consult the discussion board periodically for new information.
+X    Decompose the problem into components (functions and/or modules).
+X    Write code to implement components or modules (e.g. command line processing).
+X    Run tests for different system settings; to make this easier, you can create shellscripts (files containing shell commands) for different test cases.
+X    Use Git to save backups and keep a version "history".
+X    Assess the program results and the code for ways to improve it.
+X    Repeat until the behavior and results are correct, and document divergences and difficulties in the report file.
+
+Components:
+- Initialization: Check argument errors, modes of operation. Assignment suggests Fisher-Yates shuffle
+- Simulation: Calls update operation to process fire spread, check fires out.
+- Update: Check neighbors, apply spread function. Assignment suggests variable-length array
+- Spread: Spread the flames. Needs math. Trees burn for two cycles after initial cycle, then burn out
+
+- Extra Credit:
+	- Lightning
+	- Dampness
+
+- To do:
+	- X Refactor code (style + documentation)
+	- Check program functionality
+	- Report
+	- Extra credit

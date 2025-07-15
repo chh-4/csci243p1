@@ -1,0 +1,137 @@
+===========================
+======== Wildfire =========
+===========================
+=== Print 10 Time Steps ===
+===========================
+ Y*Y*Y  Y 
+YYY *  YYY
+    Y   YY
+YY       Y
+   YYY Y  
+ Y   YY Y 
+ Y Y Y YY*
+Y  YYYY  Y
+Y Y Y *  Y
+ YYY  Y YY
+size 10, pCatch 0.30, density 0.50, pBurning 0.10, pNeighbor 0.25
+cycle 0, current changes 0, cumulative changes 0. 
+ **Y**  Y 
+YYY *  YYY
+    Y   YY
+YY       Y
+   YYY Y  
+ Y   YY * 
+ Y Y Y YY*
+Y  YYYY  Y
+Y Y Y *  Y
+ YYY  * YY
+size 10, pCatch 0.30, density 0.50, pBurning 0.10, pNeighbor 0.25
+cycle 1, current changes 4, cumulative changes 4. 
+ **Y**  Y 
+Y*Y *  YYY
+    Y   YY
+YY       Y
+   YYY *  
+ Y   YY * 
+ Y Y Y YY*
+Y  YYYY  *
+Y Y Y *  Y
+ YYY  * YY
+size 10, pCatch 0.30, density 0.50, pBurning 0.10, pNeighbor 0.25
+cycle 2, current changes 3, cumulative changes 7. 
+ *.Y.*  Y 
+Y*Y .  YYY
+    Y   YY
+YY       Y
+   YYY *  
+ Y   YY * 
+ Y Y Y YY.
+Y  YYY*  *
+Y Y Y .  *
+ YYY  * YY
+size 10, pCatch 0.30, density 0.50, pBurning 0.10, pNeighbor 0.25
+cycle 3, current changes 7, cumulative changes 14. 
+ ..Y..  Y 
+Y** .  YYY
+    Y   YY
+YY       Y
+   YYY *  
+ Y   YY . 
+ Y Y Y YY.
+Y  YYY*  *
+Y Y Y .  *
+ YYY  . *Y
+size 10, pCatch 0.30, density 0.50, pBurning 0.10, pNeighbor 0.25
+cycle 4, current changes 6, cumulative changes 20. 
+ ..*..  Y 
+Y.* .  YYY
+    Y   YY
+YY       Y
+   YYY .  
+ Y   YY . 
+ Y Y Y Y*.
+Y  YY**  .
+Y Y Y .  *
+ YYY  . **
+size 10, pCatch 0.30, density 0.50, pBurning 0.10, pNeighbor 0.25
+cycle 5, current changes 7, cumulative changes 27. 
+ ..*..  Y 
+Y.* .  YYY
+    Y   YY
+YY       Y
+   YYY .  
+ Y   YY . 
+ Y Y Y **.
+Y  YY*.  .
+Y Y Y .  .
+ YYY  . **
+size 10, pCatch 0.30, density 0.50, pBurning 0.10, pNeighbor 0.25
+cycle 6, current changes 3, cumulative changes 30. 
+ ..*..  Y 
+Y.. .  YYY
+    Y   YY
+YY       Y
+   YYY .  
+ Y   YY . 
+ Y Y * **.
+Y  YY*.  .
+Y Y * .  .
+ YYY  . .*
+size 10, pCatch 0.30, density 0.50, pBurning 0.10, pNeighbor 0.25
+cycle 7, current changes 4, cumulative changes 34. 
+ .....  Y 
+Y.. .  YYY
+    Y   YY
+YY       Y
+   YYY .  
+ Y   YY . 
+ Y Y * *..
+Y  Y*..  .
+Y Y * .  .
+ YYY  . ..
+size 10, pCatch 0.30, density 0.50, pBurning 0.10, pNeighbor 0.25
+cycle 8, current changes 5, cumulative changes 39. 
+ .....  Y 
+Y.. .  YYY
+    Y   YY
+YY       Y
+   YYY .  
+ Y   *Y . 
+ Y Y * ...
+Y  **..  .
+Y Y * .  .
+ YYY  . ..
+size 10, pCatch 0.30, density 0.50, pBurning 0.10, pNeighbor 0.25
+cycle 9, current changes 3, cumulative changes 42. 
+ .....  Y 
+Y.. .  YYY
+    Y   YY
+YY       Y
+   YYY .  
+ Y   *Y . 
+ Y Y . ...
+Y  **..  .
+Y Y . .  .
+ YYY  . ..
+size 10, pCatch 0.30, density 0.50, pBurning 0.10, pNeighbor 0.25
+cycle 10, current changes 2, cumulative changes 44. 
